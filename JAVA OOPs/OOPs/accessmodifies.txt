@@ -1,0 +1,24 @@
+
+
+
+                access          class       subclass        package         world
+                modifiers
+
+
+                public          yes         yes             yes             yes
+
+                protected       yes         yes             yes             no
+
+                default         yes         no              yes             no
+
+                private         yes         no              no              no
+
+
+
+
+
+
+
+
+
+                
